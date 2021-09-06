@@ -6,6 +6,7 @@ export default function App() {
     { id: 1, text: "Wash dishes", done: false },
     { id: 2, text: "Do laundry", done: false },
     { id: 3, text: "Take shower", done: false }
+    { id: 5, text: "Take more shower", done: false }
   ]);
 
   return (
